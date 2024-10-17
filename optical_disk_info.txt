@@ -1,0 +1,6 @@
+Optical Disk Info:
+Size: 654 GB
+Cylinders: 654
+Tracks: 53
+Sectors: 645
+Brand: AZUZ

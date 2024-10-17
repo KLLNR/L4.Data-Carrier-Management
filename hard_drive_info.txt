@@ -1,0 +1,6 @@
+Hard Drive Info:
+Size: 100 GB
+Cylinders: 654
+Tracks: 654
+Sectors: 645
+Brand: 654
